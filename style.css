@@ -1,0 +1,38 @@
+
+   
+@import url("https://fonts.googleapis.com/css?family=inconsolata:400,700");
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+div {
+    margin: 40px 40px 5px 40px;
+
+}
+
+span{
+    font-size: 29px;
+}
+
+
+.counter{
+    color: yellow;
+    font-size: 50px;
+}
+
+
+body {
+    font-family: "inconsolata", sans-serif;
+    height: 100vh;
+    background: #30336b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
